@@ -1,1 +1,3 @@
 box: eymengunay/php55@0.0.7
+services:
+  - wercker/mysql@0.0.8
